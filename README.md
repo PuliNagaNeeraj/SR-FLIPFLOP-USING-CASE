@@ -80,5 +80,6 @@ endmodule
 ![image](https://github.com/PuliNagaNeeraj/SR-FLIPFLOP-USING-CASE/assets/138849173/a3a1070e-659c-47ff-ba62-98c38a007d13)
 
 **RESULTS**
+
 The observation of the simulation results and confirm the successful execution of the program.
 
