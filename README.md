@@ -72,9 +72,11 @@ module SRFlipflop(q, q_bar, s,r, clk, reset);//SR Flip Flop Behavioral Level usi
 endmodule
 ```
 **RTL LOGIC FOR FLIPFLOPS**
+
 ![image](https://github.com/PuliNagaNeeraj/SR-FLIPFLOP-USING-CASE/assets/138849173/219d2558-6ee0-4bb1-9901-12d4f2ccc9f0)
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
+
 ![image](https://github.com/PuliNagaNeeraj/SR-FLIPFLOP-USING-CASE/assets/138849173/a3a1070e-659c-47ff-ba62-98c38a007d13)
 
 **RESULTS**
